@@ -1,4 +1,4 @@
-# Breast Cancer Classification — MLP Neural Network
+# Breast Cancer Classification - MLP Neural Network
 
 Klasyfikator nowotworów piersi oparty na sieci neuronowej (MLP). Projekt zbudowany w oparciu o dataset Wisconsin Breast Cancer z biblioteki scikit-learn.
 
